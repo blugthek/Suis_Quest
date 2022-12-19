@@ -1,0 +1,27 @@
+{ "PlayerDialogs" : [{
+    "Seq": 0,
+    "Dialog": "I Bank I Wayne",
+    "ConnectToSeq": 0,
+    "IsChoice": true,
+    "ChoiceA": "",
+    "AConnectToSeq": 0,
+    "IsForceEndA": false,
+    "ForceQuitA": true,
+    "ChoiceB": "End Scenario",
+    "BConnectToSeq": 0,
+    "IsForceEndB": true,
+    "ForceQuitB": false
+},{
+    "Seq": 1,
+    "Dialog": "Test Upload From JSON",
+    "ConnectToSeq": 1,
+    "IsChoice": true,
+    "ChoiceA": "",
+    "AConnectToSeq": 0,
+    "IsForceEndA": true,
+    "ForceQuitA": false,
+    "ChoiceB": "TestChoice",
+    "BConnectToSeq": 0,
+    "IsForceEndB": false,
+    "ForceQuitB": false
+}]}

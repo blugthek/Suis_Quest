@@ -1,0 +1,9 @@
+{ "ThisDialos" : [{
+    "Seq": 0,
+    "Dialog": "Test 0 : 1",
+    "ConnectToSeq": 1
+},{
+    "Seq": 1,
+    "Dialog": "1 : 2",
+    "ConnectToSeq": 2
+}]}
